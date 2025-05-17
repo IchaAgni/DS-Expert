@@ -97,7 +97,6 @@ Cara menjalankan prediksi:
 
 Script prediction.py membutuhkan input data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan employee_data.csv
 Setelah environment aktif dan dependensi terpasang, jalankan perintah prediksi:
-
      ```
      python prediction.py --input data.csv --output prediksi.csv
      ```
